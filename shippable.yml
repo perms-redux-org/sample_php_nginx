@@ -41,3 +41,5 @@ after_script:
   
 #cache: true 
 build_image: shippable/minv2
+
+#pr build
